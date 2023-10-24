@@ -19,3 +19,6 @@ https://m.blog.naver.com/iamsmartin/220727499008
 
 7. 18092
    https://answerofgod.tistory.com/865
+
+8. NFC RTL 코드
+https://github.com/WangXuan95/FPGA-NFC
