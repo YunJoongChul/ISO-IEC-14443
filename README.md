@@ -22,3 +22,6 @@ https://answerofgod.tistory.com/865
 
 8. NFC RTL 코드
 https://github.com/WangXuan95/FPGA-NFC
+
+9. I2C
+https://www.appskit.co.kr/single-post/2018/05/09/%EA%B8%B0%EC%88%A0%EB%85%B8%ED%8A%B8-%ED%86%B5%EC%8B%A0i2c-%ED%86%B5%EC%8B%A0%EC%9D%B4%EB%9E%80
